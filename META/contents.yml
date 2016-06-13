@@ -1,0 +1,72 @@
+
+- title: What is a gem?
+  sections:
+  - Structure of a Gem
+  - The Gemspec
+
+- title: Make your own gem
+  sections:
+  - Introduction
+  - Your first gem
+  - Requiring more files
+  - Adding an executable
+  - Writing tests
+  - Documenting your code
+  - Wrapup
+
+- title: Gems with extensions
+  sections:
+  - Gem layout
+  - extconf.rb
+  - C Extension
+  - rake-compiler
+  - Gem specification
+  - Extension Naming
+
+- title: Name your gem
+  sections:
+  - Use underscores for multiple words
+  - Use dashes for extensions
+  - Mix underscores and dashes appropriately
+  - Don't use UPPERCASE letters
+
+- title: Publishing your gem
+  sections:
+  - Introduction
+  - Sharing Source Code
+  - Serving Your Own Gems
+  - Publishing to RubyGems.org
+  - Push Permissions on RubyGems.org
+  - Gem Security
+
+- title: Patterns
+  sections:
+  - Consistent naming
+  - Semantic versioning
+  - Declaring dependencies
+  - Loading code
+  - Prerelease gems
+
+- title: Security
+  sections:
+  - General
+  - Using Gems
+  - Building Gems
+  - Reporting Security Vulnerabilities
+
+- title: Resources
+  sections:
+  - Tutorials
+  - Presentations
+  - Philosophy
+  - Patterns
+  - Creating
+  - Monitoring
+  - Hosting and Serving
+  - Utilities
+
+- title: Credits
+  sections:
+  - Contributors
+  - Acknowledgments
+  - Hosting
