@@ -1,72 +1,83 @@
+######################
+#  Table of Contents
 
-- title: What is a gem?
+- title: 1. What is a gem?
+  path:  01__What_is_a_gem.md
   sections:
-  - Structure of a Gem
-  - The Gemspec
+  - title: Structure of a Gem
+  - title: The Gemspec
 
-- title: Make your own gem
+- title: 2. Make your own gem
+  path:  02__Make_your_own_gem.md
   sections:
-  - Introduction
-  - Your first gem
-  - Requiring more files
-  - Adding an executable
-  - Writing tests
-  - Documenting your code
-  - Wrapup
+  - title: Introduction
+  - title: Your first gem
+  - title: Requiring more files
+  - title: Adding an executable
+  - title: Writing tests
+  - title: Documenting your code
+  - title: Wrapup
 
-- title: Gems with extensions
+- title: 3. Gems with extensions
+  path:  03__Gems_with_extensions.md
   sections:
-  - Gem layout
-  - extconf.rb
-  - C Extension
-  - rake-compiler
-  - Gem specification
-  - Extension Naming
+  - title: Gem layout
+  - title: extconf.rb
+  - title: C Extension
+  - title: rake-compiler
+  - title: Gem specification
+  - title: Extension Naming
 
-- title: Name your gem
+- title: 4. Name your gem
+  path:  04__Name_your_gem.md
   sections:
-  - Use underscores for multiple words
-  - Use dashes for extensions
-  - Mix underscores and dashes appropriately
-  - Don't use UPPERCASE letters
+  - title: Use underscores for multiple words
+  - title: Use dashes for extensions
+  - title: Mix underscores and dashes appropriately
+  - title: Don't use UPPERCASE letters
 
-- title: Publishing your gem
+- title: 5. Publishing your gem
+  path:  05__Publishing_your_gem.md
   sections:
-  - Introduction
-  - Sharing Source Code
-  - Serving Your Own Gems
-  - Publishing to RubyGems.org
-  - Push Permissions on RubyGems.org
-  - Gem Security
+  - title: Introduction
+  - title: Sharing Source Code
+  - title: Serving Your Own Gems
+  - title: Publishing to RubyGems.org
+  - title: Push Permissions on RubyGems.org
+  - title: Gem Security
 
-- title: Patterns
+- title: 6. Patterns
+  path:  06__Patterns.md
   sections:
-  - Consistent naming
-  - Semantic versioning
-  - Declaring dependencies
-  - Loading code
-  - Prerelease gems
+  - title: Consistent naming
+  - title: Semantic versioning
+  - title: Declaring dependencies
+  - title: Loading code
+  - title: Prerelease gems
 
-- title: Security
+- title: A1. Security
+  path:  A1__Security.md
   sections:
-  - General
-  - Using Gems
-  - Building Gems
-  - Reporting Security Vulnerabilities
+  - title: General
+  - title: Using Gems
+  - title: Building Gems
+  - title: Reporting Security Vulnerabilities
 
-- title: Resources
+- title: A2. Resources
+  path:  A2__Resources.md
   sections:
-  - Tutorials
-  - Presentations
-  - Philosophy
-  - Patterns
-  - Creating
-  - Monitoring
-  - Hosting and Serving
-  - Utilities
+  - title: Tutorials
+  - title: Presentations
+  - title: Philosophy
+  - title: Patterns
+  - title: Creating
+  - title: Monitoring
+  - title: Hosting and Serving
+  - title: Utilities
 
-- title: Credits
+- title: A3. Credits
+  path:  A3__Credits.md
   sections:
-  - Contributors
-  - Acknowledgments
-  - Hosting
+  - title: Contributors
+  - title: Acknowledgments
+  - title: Hosting
